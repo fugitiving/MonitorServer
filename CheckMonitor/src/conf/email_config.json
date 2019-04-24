@@ -1,0 +1,8 @@
+{
+	"title":"邮件主题",
+	"from":"gaoke1107@163.com",
+	"receives":["gaoke1107@163.com"],
+	"content":"监测服务配置成功邮件！",
+	"smtp": "163", 
+	"serverpaswd":"testtest"
+}
